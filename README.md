@@ -19,9 +19,9 @@
   <div align='center'>
 
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 56px; margin-bottom: 56px;" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 56px; margin-bottom: 56px;" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 56px; margin-bottom: 56px;" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 56px; margin-bottom: 56px;" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 56px; margin-bottom: 56px;" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 56px; margin-bottom: 56px;" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="68" style="width: 68px; height: 68px; margin-right: 56px; margin-bottom: 56px;" />
 
